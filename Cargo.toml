@@ -1,0 +1,8 @@
+[workspace]
+resolver = "3"
+members = [
+    "01_flappy_ascii/hello_bterm"
+]
+
+[workspace.dependencies]
+bracket-lib = "0.8.7"

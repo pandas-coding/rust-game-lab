@@ -4,7 +4,7 @@ members = [
     "01_flappy_ascii/hello_bterm",
     "01_flappy_ascii/flappy_states",
     "01_flappy_ascii/flappy_player",
-    "01_flappy_ascii/flappy_dragon",
+    "01_flappy_ascii/flappy_dragon", "01_flappy_ascii/flappy_bonus",
 ]
 
 [workspace.dependencies]

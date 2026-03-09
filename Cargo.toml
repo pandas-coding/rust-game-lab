@@ -4,7 +4,7 @@ members = [
     "01_flappy_ascii/hello_bterm",
     "01_flappy_ascii/flappy_states",
     "01_flappy_ascii/flappy_player",
-    "01_flappy_ascii/flappy_dragon", "01_flappy_ascii/flappy_bonus", "02_basic_dungeon_crawler/dungeon_crawl_map",
+    "01_flappy_ascii/flappy_dragon", "01_flappy_ascii/flappy_bonus", "02_basic_dungeon_crawler/dungeon_crawl_map", "02_basic_dungeon_crawler/dungeon_crawl_player",
 ]
 
 [workspace.dependencies]
